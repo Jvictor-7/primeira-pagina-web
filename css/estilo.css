@@ -1,0 +1,57 @@
+:root {
+
+}
+
+body {
+    font-style: 'Tahoma';
+    /* resetando css */
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div {
+    background-color: #f5f5f5;
+    padding: 50px;
+    text-align: center;
+    border-top: 1px solid #d5d5d5;
+}
+
+img {
+    width: 190px;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+p {
+    line-height: 28px;
+    width: 930px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a {
+    background-color: #4bb86d;
+    font-size: 14px;
+    font-weight: bold;
+    color: #ffffff;
+    text-decoration: none;
+    padding: 10px 25px;
+    border-radius: 20px;
+}
+
+a:hover {
+    background-color: #2d8645;
+    transition: all 0.7s ease;
+    transform: scale(5.0);
+}
+
+span {
+    font-weight: bold;
+}
